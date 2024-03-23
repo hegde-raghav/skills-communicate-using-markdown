@@ -6,3 +6,8 @@
 ###### H6 Header
 
 ![Cat Image here](https://octodex.github.com/images/yaktocat.png)
+
+```python
+var = 10
+print(f'var: {var}')
+```
