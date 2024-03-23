@@ -11,3 +11,6 @@
 var = 10
 print(f'var: {var}')
 ```
+- [x] Item1
+- [x] Item2
+- [ ] Item3
